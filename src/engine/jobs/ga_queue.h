@@ -13,8 +13,13 @@
 ** Thread-safe queue.
 ** https://www.research.ibm.com/people/m/michael/podc-1996.pdf
 */
+#include <mutex>
+#include <list>
 class ga_queue
 {
+private:
+	std::mutex H_Lock, T_LOCK;
+	std::list<void*> queue;
 public:
 	ga_queue(int node_count);
 	~ga_queue();

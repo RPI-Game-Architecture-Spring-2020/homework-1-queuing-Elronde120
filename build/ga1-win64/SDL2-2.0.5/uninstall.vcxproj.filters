@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sorel\Documents\GitHub\Game-Architecture\homework-1-queuing-Elronde120\build\ga1-win64\CMakeFiles\392e3f582e775852ee6b07dfabeb41d1\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\sorel\Documents\GitHub\Game-Architecture\homework-1-queuing-Elronde120\src\3rdparty\SDL2-2.0.5\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\sorel\Documents\GitHub\Game-Architecture\homework-1-queuing-Elronde120\build\ga1-win64\SDL2-2.0.5\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F6F147AB-1C07-32CF-8F37-401DEEA0D628}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

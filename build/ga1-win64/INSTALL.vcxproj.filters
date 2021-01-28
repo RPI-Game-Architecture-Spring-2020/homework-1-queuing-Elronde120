@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sorel\Documents\GitHub\Game-Architecture\homework-1-queuing-Elronde120\build\ga1-win64\CMakeFiles\0ec2cf33524e7e882de70797b8a072ad\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F6F147AB-1C07-32CF-8F37-401DEEA0D628}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
