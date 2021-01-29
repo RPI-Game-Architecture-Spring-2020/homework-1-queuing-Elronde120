@@ -1,6 +1,2 @@
-﻿  ga_job.cpp
-  ga_queue.cpp
-  ga_queue.tests.cpp
-  Generating Code...
-     Creating library C:/Users/sorel/Documents/GitHub/Game-Architecture/homework-1-queuing-Elronde120/build/ga1-win64/Debug/ga.lib and object C:/Users/sorel/Documents/GitHub/Game-Architecture/homework-1-queuing-Elronde120/build/ga1-win64/Debug/ga.exp
+﻿  ga_queue.cpp
   ga.vcxproj -> C:\Users\sorel\Documents\GitHub\Game-Architecture\homework-1-queuing-Elronde120\build\ga1-win64\Debug\ga.exe

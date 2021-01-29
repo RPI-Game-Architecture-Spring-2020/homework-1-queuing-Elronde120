@@ -19,7 +19,17 @@ class ga_queue
 {
 private:
 	std::mutex H_Lock, T_LOCK;
-	std::list<void*> queue;
+
+	class Node 
+	{
+	public:
+		void* data;
+		Node* next;
+	};
+
+	Node* Head;
+	Node* Tail;
+	int count;
 public:
 	ga_queue(int node_count);
 	~ga_queue();
